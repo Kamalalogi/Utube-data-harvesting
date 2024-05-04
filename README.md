@@ -28,11 +28,12 @@ To run this project, you need to install the following packages:
     import streamlit as st
     import mysql.connector
 
-Deplyment:
+Deployment:
 
 To use this project, follow these steps:
 
     Clone the repository: '''git clone https://github.com/Kamalalogi/Utube-data-harvesting/blob/main/dataharvest.py
+    API key: Generate a API key from the Youtube Developer Console
     Install the required packages: refer installtion
     Run the Streamlit app: streamlit run app.py
     Access the app in your browser at http://localhost:8501
